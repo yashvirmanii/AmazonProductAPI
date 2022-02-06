@@ -1,5 +1,4 @@
 const express = require('express');
-const axios = require('axios');
 const request = require('request-promise');
 const cors = require('cors');
 
